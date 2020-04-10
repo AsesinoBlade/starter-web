@@ -8,3 +8,5 @@ as stated above, the main purpose is to provide some details
 deployment can be any web server
 ## How to contribute
 payme
+### Copyright
+git.training
