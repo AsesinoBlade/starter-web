@@ -7,6 +7,6 @@ as stated above, the main purpose is to provide some details
 ## Deployment
 deployment can be any web server
 ## How to contribute
-payme
+Fork please, don't update in master
 ### Copyright
 git.training
