@@ -1,4 +1,5 @@
-Adding line for rebase#
+Adding line for rebase, more changes from myfeaturee branch
+#
 # Starter Web Preject
 This is a simple website project for showing how use Git and Github together.
 ## Introduction
